@@ -1,0 +1,6 @@
+STOP = 1000000
+ID_SEQUENCE = iter(range(STOP))
+PAYMENT = ["Cash", "Card"]
+CUSTOMER_ID_SEQUENCE = iter(range(STOP))
+MIN_ITEMS = 1
+MAX_ITEMS = 10
